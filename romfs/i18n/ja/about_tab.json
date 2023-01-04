@@ -1,0 +1,33 @@
+{
+    "description": "Nintendo Switchダンプツール",
+
+    "copyright": "GPLV3+\ U00a9 2020-2022 {0} \ n {1}でライセンス",
+
+    "dependencies": {
+        "header":  "依存関係",
+        "line_00": "\uE016  {0} は、ハードウェアアクセラレーションによるUIライブラリBorealisを搭載しています。{1}.",
+        "line_01": "\uE016  USBマスストレージデバイスのサポートは、libusbhsfs: {0}を搭載しています。",
+        "line_02": "\uE016  FatFsは、eMMCストレージからFATボリュームをマウントするために使用します。{0}.",
+        "line_03": "\uE016  LZ4は、NSOバイナリを減圧するために使用されます：{0}。",
+        "line_04": "\uE016  json-cは、JSON形式のデータを解析するために使用されます：{0}。"
+    },
+
+    "acknowledgments": {
+        "header":  "謝辞",
+        "line_00": "\uE016  Switchbrewおよびlibnxの寄稿者。",
+        "line_01": "\uE016  sciresm、hactool、hac2l、atmosphère-nx用。",
+        "line_02": "\uE016  Shchmue、ロックピックとそのランタイムキーコレクションアルゴリズム、およびリバースエンジニアリングタスクの支援。",
+        "line_03": "\uE016  Adubbz、TinfoilとそのESサービスバインディング用。",
+        "line_04": "\uE016  rattletrapm、素晴らしいアイコンのため。",
+        "line_05": "\uE016  Whovian9369は、多くのテストとクールなアイデアを提供することにより、開発全体を通して重要な作品であることです。",
+        "line_06": "\uE016  0Liam、Shadów、Simontimeは、Nintendo Switchファイルとデータ形式を理解するための非常に役立ちました。",
+        "line_07": "\uE016  nswdb.comとno-intro.orgの人々は、オンラインチェックサムルックアップを実行するために公共のAPIを設置するのに十分親切であるために。",
+        "line_08": "\uE016  NXDumptoolのDiscordサーバーの人々。",
+        "line_09": "\uE016  快適なボーイズ、常に素晴らしく、協力的です。 あなたは自分が誰であるかを知っています。",
+        "line_10": "\uE016  そして、最後になりましたが、あなたは！ 私のアプリを使ってくれてありがとう！"
+    },
+
+    "links": {
+        "header":  "追加のリンクとリソース",
+        "line_00": "\uE016  Discordサーバー： {0}。"
+    }
